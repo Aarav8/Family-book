@@ -1,0 +1,33 @@
+img {
+    wwidth:  450px;
+    height : 300px;
+    border-color : red;
+    border : 5px;
+    border-style : solid;
+    padding: 20px;
+    }
+body {
+    text-align : center;
+    text-color : red;
+    
+    
+    }
+#reason {
+    text-align : center;
+    text-color : red;
+    font-size :70px; 
+    }
+#topic {
+    font-size:60px;
+    }
+#tii {
+    font-size:20px;
+    }
+ body {
+
+        text-align: center;
+        background-color: lightblue;
+    }
+    b {
+       background-color: brown;
+    }
